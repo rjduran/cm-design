@@ -8,4 +8,10 @@ This repo contains examples of models built using [Rhino](http://grasshopper3d.c
 ## Parametric Revolve Generator
 ![](img/parametric-revolve-generator.jpg)
 
+## Parametric Pipe Generator
+![](img/parametric-pipe-generator.jpg)
+
+## Parametric Surface Generator
+![](img/parametric-surface-generator.jpg)
+
 
