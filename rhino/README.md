@@ -1,6 +1,9 @@
 # Rhino
 
-This repo contains examples of models built using [Rhino](http://grasshopper3d.com). 
+This repo contains beginner tutorials and examples of models built using [Rhino](http://grasshopper3d.com). 
+
+## Intro to Rhino
+![](img/intro-to-rhino.jpg)
 
 ## Parametric Loft Generator
 ![](img/parametric-loft-generator.jpg)
